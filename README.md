@@ -529,18 +529,12 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
-**Suyash Prajapati**
+**Suyash Pathak**
 
 - 📧 Email: suyashp271@gmail.com
-- 🌐 GitHub: [@suyashpradhan](https://github.com/suyashpradhan)
+- 🌐 GitHub: [@suyashpathak](https://github.com/SuYaSh-PaThAk04)
 
 ---
 
