@@ -13,7 +13,7 @@ app.use(express.json());
 // CORS
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://playgroung-tawny.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
