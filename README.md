@@ -571,7 +571,7 @@ Your Name
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email suyashp271@gmail.com or open an issue in the repository.
 
 ---
 
