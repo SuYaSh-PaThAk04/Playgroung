@@ -544,14 +544,15 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
+##Glimps
+<img width="1346" height="728" alt="image" src="https://github.com/user-attachments/assets/44f1d109-ad0f-4e3f-86dc-c5c908af24eb" />
+<img width="1350" height="693" alt="image" src="https://github.com/user-attachments/assets/df18b919-567b-4e5f-ad0b-70e2cbed8ec9" />
+<img width="934" height="554" alt="image" src="https://github.com/user-attachments/assets/2b86dbe4-926a-4a50-817d-e6deb6376fa3" />
+<img width="1144" height="684" alt="image" src="https://github.com/user-attachments/assets/9ef51d4a-28d3-4c9b-8b30-6897734c2121" />
 
-Special thanks to:
-- [Express.js](https://expressjs.com/) team for the robust framework
-- [Next.js](https://nextjs.org/) team for the amazing React framework
-- [Tailwind CSS](https://tailwindcss.com/) for beautiful utilities
-- [MongoDB](https://www.mongodb.com/) for the powerful database
-- [Vercel](https://vercel.com/) & [Render](https://render.com/) for hosting
+##Demo Video 
+
+https://github.com/user-attachments/assets/e25b8e1f-183b-47f2-82ce-9ff9cd1baa0a
 
 ---
 
