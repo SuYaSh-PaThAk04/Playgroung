@@ -544,15 +544,43 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ---
 
-##Glimps
-<img width="1346" height="728" alt="image" src="https://github.com/user-attachments/assets/44f1d109-ad0f-4e3f-86dc-c5c908af24eb" />
-<img width="1350" height="693" alt="image" src="https://github.com/user-attachments/assets/df18b919-567b-4e5f-ad0b-70e2cbed8ec9" />
-<img width="934" height="554" alt="image" src="https://github.com/user-attachments/assets/2b86dbe4-926a-4a50-817d-e6deb6376fa3" />
-<img width="1144" height="684" alt="image" src="https://github.com/user-attachments/assets/9ef51d4a-28d3-4c9b-8b30-6897734c2121" />
+## 📸 Application Glimpses
 
-##Demo Video 
+### Home Page - Profile Dashboard
+<img width="1346" alt="Profile Dashboard View" src="https://github.com/user-attachments/assets/44f1d109-ad0f-4e3f-86dc-c5c908af24eb" />
+
+*Beautiful glassmorphism design with profile information and project showcase*
+
+---
+
+### Skill Search Interface
+<img width="1350" alt="Skill Search with Pagination" src="https://github.com/user-attachments/assets/df18b919-567b-4e5f-ad0b-70e2cbed8ec9" />
+
+*Powerful search functionality with real-time results and pagination*
+
+---
+
+### Profile Edit Modal
+<img width="934" alt="Edit Profile Form" src="https://github.com/user-attachments/assets/2b86dbe4-926a-4a50-817d-e6deb6376fa3" />
+
+*Intuitive profile editing with dynamic skill management*
+
+---
+
+### Add User Interface
+<img width="1144" alt="Create New Profile" src="https://github.com/user-attachments/assets/9ef51d4a-28d3-4c9b-8b30-6897734c2121" />
+
+*Comprehensive form for adding new users with project management*
+
+---
+
+## 🎥 Demo Video
+
+Watch the full application in action:
 
 https://github.com/user-attachments/assets/e25b8e1f-183b-47f2-82ce-9ff9cd1baa0a
+
+*Complete walkthrough showcasing all features including profile management, search, and real-time updates*
 
 ---
 
