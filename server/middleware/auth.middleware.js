@@ -3,9 +3,11 @@ import jwt from "jsonwebtoken";
 export const authRequired = (req, res, next) => {
   // If ADMIN_PASSWORD is not set, allow access without authentication
   const adminPassword = process.env.ADMIN_PASSWORD;
-  if (!adminPassword) {
+ if (!adminPassword) {
+    req.user = { role: "admin" };
     return next();
   }
+
 
   const header = req.headers["authorization"] || "";
   const token = header.startsWith("Bearer ") ? header.slice(7) : null;
